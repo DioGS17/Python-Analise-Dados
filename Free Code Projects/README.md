@@ -1,0 +1,2 @@
+# Projetos da plataforma FreeCodeCap
+Pequenos projetos práticos da plataforma [FreeCodeCamp](https://www.freecodecamp.org/), usados para exercitar as bibilotecas utilizadas para realizar a análise de dados
