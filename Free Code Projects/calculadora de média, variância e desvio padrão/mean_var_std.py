@@ -14,5 +14,3 @@ def calculate(lst: list) -> dict:
         'min': [np.min(ar, axis=0).tolist(), np.min(ar, axis=1).tolist(), np.min(ar).tolist()],
         'sum': [np.sum(ar, axis=0).tolist(), np.sum(ar, axis=1).tolist(), np.sum(ar).tolist()]
     }
-
-print(calculate([0, 1, 2, 3, 4, 5, 6, 7, 8]))
